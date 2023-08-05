@@ -13,3 +13,17 @@ footer {
   color: #ffffff;
   border-top: 1px solid #adadad;
 }
+
+.img-fader {
+  opacity: 0.7;
+  transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -webkit-transition: opacity 1s ease-in-out;
+}
+
+.img-fader:hover {
+  opacity: 1;
+  transition: opacity 0.55s ease-in-out;
+  -moz-transition: opacity 0.55s ease-in-out;
+  -webkit-transition: opacity 0.55s ease-in-out;
+}
