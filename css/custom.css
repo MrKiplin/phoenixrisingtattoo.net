@@ -15,7 +15,7 @@ footer {
 }
 
 .img-fader {
-  opacity: 0.6;
+  opacity: 0.7;
   transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -webkit-transition: opacity 1s ease-in-out;
